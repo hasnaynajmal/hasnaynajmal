@@ -2,13 +2,13 @@
   <h1 style="color:#A78BFA;">AI & Software Engineer</h1>
   <p><strong>AI Software Engineer | LLM Applications | Agent-Based Systems | Full-Stack Development</strong></p>
   <div>
-    <a href="https://linkedin.com/in/hasnyanajmal" target="_blank">
+    <a href="https://linkedin.com/in/hasnaynajmal" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:hasnyanajmal@gmail.com">
+    <a href="mailto:hasnaynajmal@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/hasnyanajmal">
+    <a href="https://github.com/hasnaynajmal">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </div>
@@ -65,4 +65,4 @@ AI Software Engineer with 2+ years of experience designing and deploying scalabl
 
 ### Let's Connect
 
-I am open to collaborating on AI research and engineering projects, discussing new developments in LLMs and agent-based systems, and exploring new professional opportunities. Feel free to reach out via [LinkedIn](https://linkedin.com/in/hasnynajmal) or [email](mailto:hasnynajmal@gmail.com).
+I am open to collaborating on AI research and engineering projects, discussing new developments in LLMs and agent-based systems, and exploring new professional opportunities. Feel free to reach out via [LinkedIn](https://linkedin.com/in/hasnaynajmal) or [email](mailto:hasnaynajmal@gmail.com).
