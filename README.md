@@ -14,13 +14,9 @@
   </div>
 </div>
 
-<hr width="50%">
-
 ### About Me
 
 AI Software Engineer with 2+ years of experience designing and deploying scalable systems across web development, automation, and enterprise applications. Strong foundations in API development, data engineering, system architecture, and generative AI solutions including LLM-based applications and AI agents. Currently pursuing an MSc in Information Technology with a specialization in Artificial Intelligence at Åbo Akademi University, Finland.
-
----
 
 ### Education
 
@@ -32,8 +28,6 @@ Specialization: Artificial Intelligence
 *Bachelor of Science, Information Technology | February 2020 - January 2024*  
 GPA: 3.59 / 4.0 | Specialization: Artificial Intelligence & Data Engineering  
 Thesis: Maritime Acoustic Signal Analysis & Classification using Deep Learning
-
----
 
 ### Technical Skills
 
@@ -74,8 +68,6 @@ Thesis: Maritime Acoustic Signal Analysis & Classification using Deep Learning
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
 </div>
 
----
-
 ### Professional Experience
 
 #### AI Support Engineer at Marketverse AI *(Contract)*
@@ -97,8 +89,6 @@ Thesis: Maritime Acoustic Signal Analysis & Classification using Deep Learning
 *March 2023 - February 2024*
 - Developed an end-to-end deep learning pipeline for ship classification using acoustic signatures, achieving 95.8% accuracy through optimized model architecture and signal processing.
 
----
-
 ### Featured Projects
 
 **Wrixe.AI** - Full-stack solution for social brand content generation using AI
@@ -113,8 +103,6 @@ Thesis: Maritime Acoustic Signal Analysis & Classification using Deep Learning
 
 **PSL Players Pick** - AI solution to draft fantasy cricket teams based on historical season data
 
----
-
 ### Certifications
 
 - Azure AI Engineer Associate, Microsoft Certified
@@ -122,8 +110,6 @@ Thesis: Maritime Acoustic Signal Analysis & Classification using Deep Learning
 - Machine Learning, LinkedIn Learning
 - Deep Learning, LinkedIn Learning
 - Frontend Development, Coursera
-
----
 
 ### GitHub Analytics
 
@@ -134,8 +120,6 @@ Thesis: Maritime Acoustic Signal Analysis & Classification using Deep Learning
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnaynajmal&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
 
 ### Let's Connect
 
