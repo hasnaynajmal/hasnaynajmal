@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=70&lines=Hasnain+Ajmal;AI+%26+Software+Engineer;LLM+Applications+%26+AI+Agents;Full+Stack+Development" alt="Typing SVG" />
+  <h1 style="color:#A78BFA;">AI & Software Engineer</h1>
   <p><strong>AI Software Engineer | LLM Applications | Agent-Based Systems | Full-Stack Development</strong></p>
   <div>
     <a href="https://linkedin.com/in/hasnyanajmal" target="_blank">
@@ -14,7 +14,7 @@
   </div>
 </div>
 
----
+-
 
 ### About Me
 
