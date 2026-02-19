@@ -14,13 +14,13 @@
   </div>
 </div>
 
--
+--
 
 ### About Me
 
 AI Software Engineer with 2+ years of experience designing and deploying scalable systems across web development, automation, and enterprise applications. Strong foundations in API development, data engineering, system architecture, and generative AI solutions including LLM-based applications and AI agents. Currently pursuing an MSc in Information Technology with a specialization in Artificial Intelligence at Åbo Akademi University, Finland.
 
----
+--
 
 ### Education
 
