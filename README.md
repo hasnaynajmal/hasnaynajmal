@@ -18,17 +18,6 @@
 
 AI Software Engineer with 2+ years of experience designing and deploying scalable systems across web development, automation, and enterprise applications. Strong foundations in API development, data engineering, system architecture, and generative AI solutions including LLM-based applications and AI agents. Currently pursuing an MSc in Information Technology with a specialization in Artificial Intelligence at Åbo Akademi University, Finland.
 
-### Education
-
-**Åbo Akademi University**, Turku, Finland  
-*Master of Science, Information Technology | September 2025 - Present*  
-Specialization: Artificial Intelligence
-
-**Bahria University**, Islamabad, Pakistan  
-*Bachelor of Science, Information Technology | February 2020 - January 2024*  
-GPA: 3.59 / 4.0 | Specialization: Artificial Intelligence & Data Engineering  
-Thesis: Maritime Acoustic Signal Analysis & Classification using Deep Learning
-
 ### Technical Skills
 
 #### Programming & Frameworks
@@ -68,56 +57,9 @@ Thesis: Maritime Acoustic Signal Analysis & Classification using Deep Learning
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
 </div>
 
-### Professional Experience
-
-#### AI Support Engineer at Marketverse AI *(Contract)*
-*June 2024 - December 2025 | Remote*
-- Developed and deployed LangGraph-based AI agent automation system, reducing marketing workflow execution time by 2-3 hours through scalable backend architecture and intelligent content generation pipelines.
-- Developed AI-driven market intelligence features with real-time data processing capabilities, implementing analytics dashboards and trading signal systems.
-
-#### AI Software Engineer at Datics AI
-*August 2024 - September 2025*
-- Architected and developed enterprise AI copilots using OpenAI models and LangChain on Azure infrastructure, building secure APIs and microservices enabling personalized automation across workflows.
-- Designed and implemented integration pipelines for structured and unstructured data sources and developed Microsoft EntraID authentication systems.
-
-#### AI Software Engineer at Softoo
-*March 2024 - August 2024*
-- Architected and developed two AI-powered MVPs (AuditEase and PrismAI) from concept to deployment, implementing full-stack solutions with APIs, database design, and cloud infrastructure.
-- Developed AuditEase with AI agent workflow and automated reporting to transform bank auditing processes; developed PrismAI using generative AI and RAG architecture for instant financial guidance.
-
-#### Undergraduate Research Assistant in AI at Center of Excellence AI
-*March 2023 - February 2024*
-- Developed an end-to-end deep learning pipeline for ship classification using acoustic signatures, achieving 95.8% accuracy through optimized model architecture and signal processing.
-
-### Featured Projects
-
-**Wrixe.AI** - Full-stack solution for social brand content generation using AI
-
-**Cosmic AI Platform** - Agentic AI co-pilot built for organizational data
-
-**Ocean Vue** - Acoustic signal processing pipeline for maritime ship classification
-
-**AuditEase** - AI agent workflow platform for automated bank auditing and report generation
-
-**PrismAI** - RAG-based financial guidance platform with semantic search and vector databases
-
-**PSL Players Pick** - AI solution to draft fantasy cricket teams based on historical season data
-
-### Certifications
-
-- Azure AI Engineer Associate, Microsoft Certified
-- Azure AI Fundamentals, Microsoft Certified
-- Machine Learning, LinkedIn Learning
-- Deep Learning, LinkedIn Learning
-- Frontend Development, Coursera
-
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnaynajmal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaynajmal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnaynajmal&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
